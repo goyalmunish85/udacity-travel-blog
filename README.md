@@ -12,5 +12,4 @@ index.html - The Index document for the website.
 
 ## Deployed URL
 
-http://goyal-website.s3.us-east-2.amazonaws.com/index.html
-
+http://dfw277srongqc.cloudfront.net/index.html
